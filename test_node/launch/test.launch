@@ -1,0 +1,4 @@
+<launch>
+    <!-- Start test_node1.py -->
+    <node pkg="test_node" type="test_node1.py" name="test_node1" output="screen"/>
+</launch>
